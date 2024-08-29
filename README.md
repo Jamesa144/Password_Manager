@@ -1,2 +1,4 @@
 # Password_Manager
-This was made to get a idea how password manager works on the front end.
+ The project demonstrates basic principles of encryption and secure data management. A GUI built with Swing components, enabling users to input and manage their passwords easily.
+
+ 
